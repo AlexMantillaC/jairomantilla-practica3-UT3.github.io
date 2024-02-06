@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(230, 230, 230);
+}
+header {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.texto {
+    font-style: italic;
+    color: gray;
+}
+.productos {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.titulosProductos {
+    font-weight: bold;
+}
+.card {
+    margin-bottom: 15px;
+}
+nav {
+    background-color: black;
+    color: white;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+footer {
+    background-color: black;
+    color: white;
+    
+}
